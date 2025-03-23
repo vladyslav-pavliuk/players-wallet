@@ -13,7 +13,7 @@
    ```bash
    http://localhost:8080
 
-** API Request Examples **
+**API Request Examples**
   Register a Player
   Request:
   ```bash
