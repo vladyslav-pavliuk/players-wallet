@@ -23,3 +23,16 @@
   {
     "playerId": "123e4567-e89b-12d3-a456-426614174000"
   }
+
+Credit a Transaction
+   Request:
+  ```bash
+  POST http://localhost:8080/api/wallet/transaction
+  Content-Type: application/json
+   
+  {
+     "playerId": "123e4567-e89b-12d3-a456-426614174000",
+     "transactionId": "223e4567-e89b-12d3-a456-426614174000",
+     "amount": 50.00,
+     "type": "Deposit"
+  }
