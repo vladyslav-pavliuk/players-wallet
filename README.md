@@ -1,9 +1,5 @@
 # PlayersWallet API 🚀
 
-A .NET Core backend service for managing player wallets and transactions. It supports player registration, balance checks, transaction processing, and transaction history retrieval.
-
----
-
 ## Setup with Docker Compose
 
 1. Clone the repository:
